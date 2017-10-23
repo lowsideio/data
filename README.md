@@ -14,3 +14,8 @@ Occasionally we dump all <a href="https://lowside.io" target="_blank">lowside.io
 **Important**
 
 We cannot guarantee that the data is correct _at all_. You shouldn't buy something based on this. We expect that the community will correct and will fill on a regular basis this database.
+
+| Resource           | Count |
+|--------------------|-------|
+| Motorcycles models | 13447 |
+| Brands             | 463   |
